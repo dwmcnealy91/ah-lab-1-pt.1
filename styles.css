@@ -10,6 +10,7 @@ ul {
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #f9fafc;
+  color: #69696a;
 }
 
 header {
@@ -20,12 +21,10 @@ header {
 
 /* .headerNav ul { */
 ul {
-  color: #69696a;
   list-style: none;
 }
 
 p {
-  color: #69696a;
   border-left: 5px solid #69696a;
   padding-left: 10px;
 }
@@ -66,16 +65,18 @@ section {
   margin: 20px;
 }
 
-h1 {
+header h1 {
   font-size: 15px;
+  color: #000;
 }
 
 button {
   padding: 5px 0;
 }
 
-h3 {
+footer h3 {
   margin: 5px;
+  color: #000;
 }
 
 .foot {
